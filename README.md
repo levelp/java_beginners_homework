@@ -17,3 +17,6 @@
   * Кнут (для продвинутых)
   * Кормен
   * Седжвик
+
+### Документы
+Цели - https://docs.google.com/document/d/1YHwUKJXTg_bnwi4Myk3VIUcqFstJVSe9x2X8YZIHICE
