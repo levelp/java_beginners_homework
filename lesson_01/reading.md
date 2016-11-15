@@ -7,6 +7,7 @@
 1. [О **PATH**](https://www.java.com/ru/download/help/path.xml)
 1. [Еще о **PATH**](http://barancev.github.io/what-is-path-env-var/)
 1. [Различные переменные среды окружения Windows](https://ru.m.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%80%D0%B5%D0%B4%D1%8B_Windows)
+1. [Командная строка в Windows 7](http://ustanovkaos.ru/rabota-v-sisteme/komandnaya-stroka-v-windows-7-kak-vyzvat.html)
 
 ### Компиляция и запуск простейшего приложения
 1. :point_right: [О том, как скомпилировать приложение](http://www.fandroid.info/8-kompilyatsiya-i-vypolnenie-java-programmy-s-komandnoj-stroki/) :heavy_exclamation_mark: Если прочитаете до конца, то узнаете, что такое 'String[] args' и зачем оно нужно. :wink:
