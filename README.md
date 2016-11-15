@@ -18,12 +18,17 @@
   * Кормен
   * Седжвик
 
+### Видео-материалы
+* [Видео - Hello, World!](https://www.youtube.com/watch?v=Ta3KT68cK1M)
+* [Видео - первая программа, часть 1 - простейший алгоритм](https://www.youtube.com/watch?v=jdfAIeGn1r8)
+* [Видео - первая программа, часть 2 - пользовательский интерфейс](https://www.youtube.com/watch?v=6j0bMl1Jr68)
+* [Видео - работа с github](https://www.youtube.com/watch?v=azFmXyrdaRg)
+
+
 ### Документы
-Цели + ваши вопросы - https://docs.google.com/document/d/1YHwUKJXTg_bnwi4Myk3VIUcqFstJVSe9x2X8YZIHICE
+Цели + ваши вопросы - https://docs.google.com/document/d/1ntLJl5sXYvjBe4VPylm8Q7KHO5ki18Oz1QYOwLJ9-E4
 
 ### Для дополнительного изучения
-* Командная строка Windows (основы):
-http://ustanovkaos.ru/rabota-v-sisteme/komandnaya-stroka-v-windows-7-kak-vyzvat.html
 * Системы контроля версия (общие сведения):
 https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8
 * Git (основы):
