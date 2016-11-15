@@ -18,14 +18,14 @@
   * Кормен
   * Седжвик
 
-### Видео-материалы
+## Видео-материалы
 * [Видео - Hello, World!](https://www.youtube.com/watch?v=Ta3KT68cK1M)
 * [Видео - первая программа, часть 1 - простейший алгоритм](https://www.youtube.com/watch?v=jdfAIeGn1r8)
 * [Видео - первая программа, часть 2 - пользовательский интерфейс](https://www.youtube.com/watch?v=6j0bMl1Jr68)
 * [Видео - работа с github](https://www.youtube.com/watch?v=azFmXyrdaRg)
 
 
-### Документы
+## Документы
 Цели + ваши вопросы - https://docs.google.com/document/d/1ntLJl5sXYvjBe4VPylm8Q7KHO5ki18Oz1QYOwLJ9-E4
 
 ### Для дополнительного изучения
