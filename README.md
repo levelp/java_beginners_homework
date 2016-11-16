@@ -24,6 +24,7 @@
 * [Видео - первая программа, часть 2 - пользовательский интерфейс](https://www.youtube.com/watch?v=6j0bMl1Jr68)
 * [Видео - работа с github](https://www.youtube.com/watch?v=azFmXyrdaRg)
 * [Видео - генерация массива случайных чисел](https://youtu.be/PjaGgB1UpcY)
+* [Видео - таблица умножения](https://youtu.be/wlqHMJ03bOo)
 
 ## Прочие видео-материалы
 * [Сколько часов в день может работать программист?](https://www.youtube.com/watch?v=kfsAMZ7_DdI)
