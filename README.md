@@ -32,8 +32,8 @@
 
 
 # Документы
-Цели + ваши вопросы - https://docs.google.com/document/d/1ntLJl5sXYvjBe4VPylm8Q7KHO5ki18Oz1QYOwLJ9-E4
-Ваши успехи и ранг - https://docs.google.com/spreadsheets/d/1HPT-W4SAH3pGZBlDi_WNzOKLwyMHHHVdHTBw3OdjcW4
+* Цели + ваши вопросы - https://docs.google.com/document/d/1ntLJl5sXYvjBe4VPylm8Q7KHO5ki18Oz1QYOwLJ9-E4
+* Ваши успехи и ранг - https://docs.google.com/spreadsheets/d/1HPT-W4SAH3pGZBlDi_WNzOKLwyMHHHVdHTBw3OdjcW4
 
 # Инструменты
 ## Системы контроля версий
