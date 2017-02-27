@@ -69,6 +69,6 @@ https://docs.google.com/document/d/1N39ui--L2O3X76mX_V2mlHjYr90kC02crzumcFxgSJE/
 
 # Head Hunting (Career)
 * [LinkedIn](https://www.linkedin.com)
-* [HH](spb.hh.ru)
+* [HH](http://spb.hh.ru)
 * [itmozg.ru](http://itmozg.ru/)
 
