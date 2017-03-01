@@ -2,6 +2,20 @@
 
 Большинство файлов можно читать прямо в браузере (кликните на файл и все). **md** - это специальная местная разметка. Презентации - это **java_beginners_1_\<N\>.pdf**, где **N** - номер урока. Задачник **java_beginners_workbook_2** будет обновляться по мере продвижения. 
 
+---
+Наш чат - [Telegram](https://t.me/joinchat/AAAAAAvrnIwJvNbe6M5WQQ)
+
+Наши видео на канале:
+* [Hello, World!](https://www.youtube.com/watch?v=Ta3KT68cK1M)
+* [По основам Java](https://www.youtube.com/playlist?list=PLqfxC1fDR68Y1a14O4uGPQmQwfMgGc-8u)
+* [Простейшая программа, ч. 1](https://www.youtube.com/watch?v=jdfAIeGn1r8)
+* [Простейшая программа, ч. 2](https://www.youtube.com/watch?v=6j0bMl1Jr68)
+* [Проект "Почта" - пример проекта первого курса](https://www.youtube.com/playlist?list=PLqfxC1fDR68Y8CcDZppZgi1m6ftYoMZJo)
+* [По Git, для желающих](https://www.youtube.com/playlist?list=PLqfxC1fDR68aaZYAsqXcpJV-JcjGKnZIH)
+* [Работа с github](https://www.youtube.com/watch?v=azFmXyrdaRg)
+
+---
+
 ## Для каждого занятия - специальная папка
 - **questions.md** - здесь лежат контрольные вопросы по занятию, с них начнется следующее занятие
 - **agenda.md** - что проходили на занятии
@@ -18,23 +32,12 @@
   * Кормен
   * Седжвик
 
-# Видео-материалы
-* [Видео - Hello, World!](https://www.youtube.com/watch?v=Ta3KT68cK1M)
-* [Видео - первая программа, часть 1 - простейший алгоритм](https://www.youtube.com/watch?v=jdfAIeGn1r8)
-* [Видео - первая программа, часть 2 - пользовательский интерфейс](https://www.youtube.com/watch?v=6j0bMl1Jr68)
-* [Видео - о методах](https://youtu.be/R2iIBvLD-wk)
-* [Видео - работа с github](https://www.youtube.com/watch?v=azFmXyrdaRg)
-* [Видео - генерация массива случайных чисел](https://youtu.be/PjaGgB1UpcY)
-* [Видео - таблица умножения](https://youtu.be/wlqHMJ03bOo)
 
 ## Прочие видео-материалы
 * [Сколько часов в день может работать программист?](https://www.youtube.com/watch?v=kfsAMZ7_DdI)
 * [Любимые языки программирования в Яндексе](https://www.youtube.com/watch?v=sSYRCfi3Sho)
 
 
-# Документы
-* Цели + ваши вопросы - https://docs.google.com/document/d/1ntLJl5sXYvjBe4VPylm8Q7KHO5ki18Oz1QYOwLJ9-E4
-* Ваши успехи и ранг - https://docs.google.com/spreadsheets/d/1HPT-W4SAH3pGZBlDi_WNzOKLwyMHHHVdHTBw3OdjcW4
 
 # Инструменты
 ## Системы контроля версий
