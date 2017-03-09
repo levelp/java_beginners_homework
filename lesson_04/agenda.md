@@ -18,6 +18,13 @@
 Задачи
 ---
 
+```java
+Random random = new Random();
+int[] myArray = new int[random.nextInt(30) + 10];
+for (int i = 0; i < myArray.length; i++) {
+    myArray[i] = random.nextInt(100);
+}
+```
 
 **Все массивы - не менее 10 элементов**
 
