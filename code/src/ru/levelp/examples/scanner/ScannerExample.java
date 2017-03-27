@@ -1,5 +1,10 @@
+package ru.levelp.examples.scanner;
+
 import java.util.Scanner;
 
+/**
+ * Простейший пример работы со сканнером
+ */
 public class ScannerExample {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); // System.in - стандартный ввод пользователя

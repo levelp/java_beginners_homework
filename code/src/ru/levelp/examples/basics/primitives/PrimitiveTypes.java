@@ -1,5 +1,7 @@
+package ru.levelp.examples.basics.primitives;
+
 /**
- * @author Anastasiya Solodkaya.
+ * Демонстрация всех примитивных типов
  */
 public class PrimitiveTypes {
     public static void main(String[] args) {
@@ -22,5 +24,6 @@ public class PrimitiveTypes {
         // boolean
         boolean b0 = true;
         boolean b1 = false;
+
     }
 }
