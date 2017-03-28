@@ -63,10 +63,6 @@ Git
 ## Far manager
 * [Download](http://www.farmanager.com/download.php?l=ru)
 
-# Записи занятий
-
--- coming soon --
-
 # Вопросы на собеседованиях по Java:
 https://docs.google.com/document/d/1N39ui--L2O3X76mX_V2mlHjYr90kC02crzumcFxgSJE/edit
 
