@@ -1,9 +1,6 @@
 import java.util.Arrays;
 
-/**
- * @author Anastasiya Solodkaya.
- */
-public class ArraysExample {
+public class ArraysExample2 {
     public static void main(String[] args) {
         // Инициализация
         int[] a1 = new int[]{1, 2, 3, 10};
