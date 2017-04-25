@@ -9,5 +9,6 @@ public class ObjectArrays {
             System.out.println("gen.nextDouble() = " +
                     gen.nextDouble());
         }
+        // Новый комментарий
     }
 }
