@@ -13,15 +13,15 @@ public class Main {
         System.out.println("file.exists() = " + file.exists());
         System.out.println("file.length() = " + file.length());
 
-        File dir = new File("C:\\A\\B\\C");
+        File dir = new File("C:\\Shape\\Circle\\C");
         System.out.println("dir.mkdirs() = " + dir.mkdirs());
-        // C:\A\B\C
+        // C:\Shape\Circle\C
         System.out.println("dir.delete() = " + dir.delete());
-        // C:\A\B
+        // C:\Shape\Circle
         System.out.println("dir.getCanonicalPath() = " + dir.getCanonicalPath());
         dir.getParentFile().delete();
         dir.getParentFile().getParentFile().delete();
-        // C:\A
+        // C:\Shape
         // . - текущий каталог
         // .. - вышестоящий каталог
         //System.out.println("dir.mkdirs() = " + dir.mkdirs());

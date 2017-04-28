@@ -25,9 +25,9 @@ public class ArraysIndices {
         int[][] A = {
                 {1, 2},
                 {3, 4}};
-        System.out.println("A = " + A);
-        System.out.println("Arrays.toString(A) = " + Arrays.toString(A));
-        System.out.println("Arrays.deepToString(A) = " +
+        System.out.println("Shape = " + A);
+        System.out.println("Arrays.toString(Shape) = " + Arrays.toString(A));
+        System.out.println("Arrays.deepToString(Shape) = " +
                 Arrays.deepToString(A));
 
         // Классы "Расширяемые массивы"
