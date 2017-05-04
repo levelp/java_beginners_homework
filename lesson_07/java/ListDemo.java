@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * Created by HP on 28.04.2017.
+ * Демонстрация работы с ArrayList и LinkedList
  */
 public class ListDemo {
     public static void main(String[] args) {
